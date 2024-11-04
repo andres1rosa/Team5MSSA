@@ -10,7 +10,7 @@ Here is the html website:
 <style>
     h1 {
         color: maroon;
-        margin-center: 40px;
+        test-align: center;
     }
 </style>
 <body>
