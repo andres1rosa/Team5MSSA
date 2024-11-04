@@ -4,10 +4,17 @@ Here is the html website:
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello Website</title>
+    <title>MSSA</title>
+    <link rel="stylesheet" href="helloCSS.css">
 </head>
+<style>
+    h1 {
+        color: maroon;
+        margin-center: 40px;
+    }
+</style>
 <body>
-    <h1>Hello</h1>
+<h1>Welcome to MSSA</h1>
+<H2>Hello</H2>
 </body>
 </html>
